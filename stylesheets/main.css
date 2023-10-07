@@ -1,26 +1,29 @@
 header {
-  background-color: darkred;
-  height: 70px;
-  padding: 0 25px;
-  font-size: 30px;
+  background-color: rgb(4, 3, 3);
+  height: 40px;
+  padding: 0 10px;
+  font-size: 20px;
   color: white;
 }
 
 .links {
-  text-align: right;
-  background-color: rgb(42, 45, 45);
+  text-align: center;
+  background-color: rgb(29, 29, 153);
   color: white;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   height: 30px;
-  padding: 0 25px;
+  padding: 0 100px;
 }
 
 section img {
-  height: 400;
-  width: 800;
-  padding: 0 25px;
+  height: 350;
 }
 
 article {
-  padding: 0 25px;
+  background-color: rgb(19, 14, 14);
+  height: 85px;
+  padding: 0 10px;
+  font-size: 20px;
+  color: white;
 }
+
